@@ -22,7 +22,7 @@
 # Check if the required number of arguments are passed
 if [ $# -ne 1 ]; then
     echo "Usage: ./azure_resource_list.sh  <resource_group>"
-    echo "Example: ./azure_resource_list.sh Shell_Project_Group"
+    echo "Example: ./Shell_Scripting.sh Shell_Project_Group"
     exit 1
 fi
 
