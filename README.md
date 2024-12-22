@@ -6,4 +6,7 @@
 
 # Email.sh has the code to get the resources list in email
 
-# Variables.sh has the code to create the resources
+# Variables.sh has the code to create the resources in azure
+
+# Using cronjob we can schedule the email report daily to have a list about resources.
+
