@@ -11,5 +11,5 @@
 # Using cronjob we can schedule the email report daily to have a list about resources.
      - crontab -e
      - give the details of the time stamp and intervals.
-     - save it and execute
+     - save it and execute.
 
